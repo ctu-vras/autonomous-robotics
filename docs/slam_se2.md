@@ -3,6 +3,7 @@ title: SLAM in SE(2)
 layout: default
 nav_order: 3
 mathjax: true
+author: Anastázie Rišková
 ---
 
 
