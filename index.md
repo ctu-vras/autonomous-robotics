@@ -6,7 +6,7 @@ nav_order: 1
 # Autonomous Robotics (ARO)
 
 {: .warning }
-The content of these pages is the result of bonus tasks done by ARO 2024 students. The format and content have varying quality and many improvements are needed. [Get 3 bonus points for working on improving these lecture notes!](https://cw.fel.cvut.cz/b242/courses/aro/start#bonus_taskstudent_s_lecture_notes_max_3_points). See https://github.com/ctu-vras/autonomous-robotics for contributing options.
+The content of these pages is the result of bonus tasks done by ARO 2024 students. The format and content have varying quality and many improvements are needed. [Get 3 bonus points for working on improving these lecture notes!](https://cw.fel.cvut.cz/b242/courses/aro/start#bonus_taskstudent_s_lecture_notes_max_3_points). See [github.com/ctu-vras/autonomous-robotics](https://ctu-vras.github.io/autonomous-robotics/) for contributing options.
 
 | Date | Lecture | Lecturer |
 | :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
