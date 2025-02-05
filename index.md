@@ -1,35 +1,25 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
+# Autonomous Robotics
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+{: .warning }
+These pages are still in preparation!
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
-
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+| Date | Lecture | Lecturer |
+| :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
+| 17 Feb 2025 | Lec 1: Introduction: course organization, prerequisites and problem definition | Karel |
+| 24 Feb 2025 | Lec 2: How to fuse almost anything: Localization and factor graphs | Karel |
+| 3 Mar 2025 | Lec 3: Where the hell am I, and where is the stuff around me? SLAM in SE(2) | Karel |
+| 10 Mar 2025 | Lec 4: Can I build a map without markers? SLAM with lidar and camera and its efficient optimization on SE(2)/SE(3) | Karel |
+| 17 Mar 2025 | Lec 5: Do I really need to remember all that stuff forever? Kalman filter | Karel |
+| 24 Mar 2025 | Lec 6: Maximum aposteriori estimate in real-time: Extended Kalman filter, Gauss_newton, Levenberg-Marquardt, Trust region methods | Karel |
+| 31 Mar 2025 | Lec 7: Beyond normal distributions: Robust regression; Learning in robotics | Karel |
+| 7 Apr 2025 | Lec 8: Exploration, introduction to motion planning | Vojta |
+| 14 Apr 2025 | Lec 9: Combinatorial motion planning | Vojta |
+| 28 Apr 2025 | Lec 10: Sampling-based motion planning I | Vojta |
+| 5 May 2025 | Lec 11: Sampling-based motion planning II | Vojta |
+| 12 May 2025 | Lec 12: Sampling-based motion planning III | Vojta |
+| 19 May 2025 | Lec 13: Data structures for motion planning | Vojta |
