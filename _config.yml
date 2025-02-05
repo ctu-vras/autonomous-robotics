@@ -1,8 +1,32 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Autonomous Robotics @ CTU FEE
+description: Lecture notes for Autonomous Robotics course @ Czech Technical University in Prague, Faculty of Electrical Engineering 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://ctu-vras.github.io/autonomous-robotics
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  CourseWare: https://cw.fel.cvut.cz/b242/courses/aro
+  BRUTE: https://cw.felk.cvut.cz/brute/student/
+  GitHub: https://github.com/ctu-vras/autonomous-robotics
+
+favicon_ico: "/assets/images/favicon.ico"
+
+color_scheme: nil
+
+callouts_level: quiet # or loud
+callouts:
+  slogan:
+    title: Slogan
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  definition:
+    title: Definition
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
