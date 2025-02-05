@@ -8,6 +8,10 @@ author: Ondřej Franek
 
 # Do I Really Need to Remember All That Stuff Forever? Kalman Filter
 
+
+<object data="{{ site.url }}/docs/kalman/kalmanfilter.pdf" width="800" height="1000" type="application/pdf"></object>
+
+
 ## Prerequisites
 
 $$
