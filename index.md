@@ -11,7 +11,7 @@ The content of these pages is the result of bonus tasks done by ARO 2024 student
 | Date | Lecture | Lecturer |
 | :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
 | 17 Feb 2025 | Lec 1: Introduction: course organization, prerequisites and problem definition | Karel |
-| 24 Feb 2025 | [Lec 2: How to fuse almost anything: Localization and factor graphs](docs/factor_graphs/factor_graphs.html) | Karel |
+| 24 Feb 2025 | [Lec 2: How to fuse almost anything: Localization and factor graphs](docs/Localization_and_factor_graph/lecture_2_notes.html) | Karel |
 | 3 Mar 2025 | [Lec 3: Where the hell am I, and where is the stuff around me? SLAM in SE(2)](docs/slam_se2.html) | Karel |
 | 10 Mar 2025 | Lec 4: Can I build a map without markers? SLAM with lidar and camera and its efficient optimization on SE(2)/SE(3) | Karel |
 | 17 Mar 2025 | [Lec 5: Do I really need to remember all that stuff forever? Kalman filter](docs/kalman/kalman.html) | Karel |
