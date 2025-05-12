@@ -19,7 +19,7 @@ The content of these pages is the result of bonus tasks done by ARO 2024 student
 | 31 Mar 2025 | [Lec 7: Beyond normal distributions: Robust regression; Learning in robotics](docs/distributions/distributions.html) | Karel |
 | 7 Apr 2025 | Lec 8: Exploration, introduction to motion planning | Vojta |
 | 14 Apr 2025 | Lec 9: Combinatorial motion planning | Vojta |
-| 28 Apr 2025 | Lec 10: Sampling-based motion planning I | Vojta |
+| 28 Apr 2025 | [Lec 10: Sampling-based motion planning I](docs/Lec_10_Sampling_based_motion_planning_I/lec10-sampling-based-motion-planning-1.html) | Vojta |
 | 5 May 2025 | Lec 11: Sampling-based motion planning II | Vojta |
 | 12 May 2025 | Lec 12: Sampling-based motion planning III | Vojta |
 | 19 May 2025 | Lec 13: Data structures for motion planning | Vojta |
