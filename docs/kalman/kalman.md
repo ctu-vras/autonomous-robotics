@@ -6,16 +6,6 @@ mathjax: true
 author: Ondřej Franek
 ---
 
-{% raw %}
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  TeX: {
-    equationNumbers: { autoNumber: "AMS" }
-  }
-});
-</script>
-{% endraw %}
-
 # Bayes and Kalman Filter
 {: .no_toc }
 This chapter explains the basics of Bayes filter and of (extended) Kalman filter.
